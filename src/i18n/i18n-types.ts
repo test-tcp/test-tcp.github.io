@@ -336,7 +336,7 @@ export type Translation = {
 		 */
 		'Community': string
 		/**
-		 * TCP充值
+		 * TCP recharge
 		 */
 		'Recharge': string
 	}
@@ -717,7 +717,7 @@ export type TranslationFunctions = {
 		 */
 		'Community': () => LocalizedString
 		/**
-		 * TCP充值
+		 * TCP recharge
 		 */
 		'Recharge': () => LocalizedString
 	}

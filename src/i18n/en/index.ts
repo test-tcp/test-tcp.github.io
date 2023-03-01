@@ -93,7 +93,7 @@ const en: BaseTranslation = {
     Postion:"Postion",
     Interest:"Interest",
     Community:"Community",
-    Recharge:"TCP充值",
+    Recharge:"TCP recharge",
   },
   Btn:{
     Close:"Close",
