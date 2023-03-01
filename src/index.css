@@ -1,0 +1,6 @@
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* input[type=text]:focus{ border:none;outline: none;} */
