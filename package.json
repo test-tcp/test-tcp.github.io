@@ -1,6 +1,7 @@
 {
   "name": "dapp-starter",
   "version": "0.0.1",
+  "homepage": "https://test-tcp.github.io",
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export",
